@@ -45,7 +45,7 @@ This end-to-end GRC program reflects the type of work performed by a junior GRC 
     ├── control-catalog.md
     └── grc-roadmap.md
 ---
-```text
+```
 ## Project Overview
 
 This project consolidates four major workstreams into a unified GRC program.
