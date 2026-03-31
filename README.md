@@ -20,25 +20,30 @@ This end-to-end GRC program reflects the type of work performed by a junior GRC 
 ## Repository Structure
 
 
-securitygroup101-enterprise-grc-program/
+```text
+/SecurityGroup101-GRC-Program
+│
 ├── README.md
+│
 ├── risk-assessment/
-│ ├── risk-register.md
-│ ├── ale-calculations.md
-│ └── risk-heatmap.md
+│   ├── risk-register.md
+│   ├── ale-calculations.md
+│   └── risk-heatmap.md
+│
 ├── compliance/
-│ ├── glba-gap-analysis.md
-│ ├── pci-dss-crosswalk.md
-│ └── ffiec-controls.md
+│   ├── glba-gap-analysis.md
+│   ├── pci-dss-crosswalk.md
+│   └── ffiec-controls.md
+│
 ├── drp/
-│ ├── disaster-recovery-plan.md
-│ ├── business-continuity-plan.md
-│ └── dr-testing-schedule.md
+│   ├── disaster-recovery-plan.md
+│   ├── business-continuity-plan.md
+│   └── dr-testing-schedule.md
+│
 └── grc-program/
-├── governance-model.md
-├── control-catalog.md
-└── grc-roadmap.md
-
+    ├── governance-model.md
+    ├── control-catalog.md
+    └── grc-roadmap.md
 ---
 
 ## Project Overview
