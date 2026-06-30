@@ -27,12 +27,12 @@ Every workstream below has a detailed markdown source and a consolidated, client
 
 | Workstream | Markdown Source(s) | PDF Deliverable |
 |---|---|---|
-| Quantitative Risk Assessment | [risk-register.md](./risk-assessment/risk-register.md), [ale-calculations.md](./risk-assessment/ale-calculations.md), [risk-heatmap.md](./risk-assessment/risk-heatmap.md) | [Quantitative_Risk_Assessment.pdf](./pdf-docs/Quantitative_Risk_Assessment.pdf) |
-| Regulatory Compliance Gap Analysis | [glba-gap-analysis.md](./compliance/glba-gap-analysis.md), [pci-dss-crosswalk.md](./compliance/pci-dss-crosswalk.md), [ffiec-controls.md](./compliance/ffiec-controls.md) | [Regulatory_Compliance_Gap_Analysis.pdf](./pdf-docs/Regulatory_Compliance_Gap_Analysis.pdf) |
-| Disaster Recovery & Business Continuity | [disaster-recovery-plan.md](./drp/disaster-recovery-plan.md), [business-continuity-plan.md](./drp/business-continuity-plan.md), [dr-testing-schedule.md](./drp/dr-testing-schedule.md) | [DRP_BCP.pdf](./pdf-docs/DRP_BCP.pdf) |
-| Enterprise GRC Program | [governance-model.md](./grc-program/governance-model.md), [control-catalog.md](./grc-program/control-catalog.md), [grc-roadmap.md](./grc-program/grc-roadmap.md) | [Enterprise_GRC_Program_Charter.pdf](./pdf-docs/Enterprise_GRC_Program_Charter.pdf) |
-| Statement of Applicability | — (new) | [Statement_of_Applicability.pdf](./pdf-docs/Statement_of_Applicability.pdf) |
-| Third-Party / Vendor Risk | — (new) | [Third_Party_Vendor_Risk_Assessment.pdf](./pdf-docs/Third_Party_Vendor_Risk_Assessment.pdf) |
+| Quantitative Risk Assessment | [risk-register.md](./risk-assessment/risk-register.md), [ale-calculations.md](./risk-assessment/ale-calculations.md), [risk-heatmap.md](./risk-assessment/risk-heatmap.md) | [SecurityGroup101_Quantitative_Risk_Assessment.pdf](./pdf-docs/SecurityGroup101_Quantitative_Risk_Assessment.pdf) |
+| Regulatory Compliance Gap Analysis | [glba-gap-analysis.md](./compliance/glba-gap-analysis.md), [pci-dss-crosswalk.md](./compliance/pci-dss-crosswalk.md), [ffiec-controls.md](./compliance/ffiec-controls.md) | [SecurityGroup101_Regulatory_Compliance_Gap_Analysis.pdf](./pdf-docs/SecurityGroup101_Regulatory_Compliance_Gap_Analysis.pdf) |
+| Disaster Recovery & Business Continuity | [disaster-recovery-plan.md](./drp/disaster-recovery-plan.md), [business-continuity-plan.md](./drp/business-continuity-plan.md), [dr-testing-schedule.md](./drp/dr-testing-schedule.md) | [SecurityGroup101_DRP_BCP.pdf](./pdf-docs/SecurityGroup101_DRP_BCP.pdf) |
+| Enterprise GRC Program | [governance-model.md](./grc-program/governance-model.md), [control-catalog.md](./grc-program/control-catalog.md), [grc-roadmap.md](./grc-program/grc-roadmap.md) | [SecurityGroup101_Enterprise_GRC_Program_Charter.pdf](./pdf-docs/SecurityGroup101_Enterprise_GRC_Program_Charter.pdf) |
+| Statement of Applicability | — (new) | [SecurityGroup101_Statement_of_Applicability.pdf](./pdf-docs/SecurityGroup101_Statement_of_Applicability%20(1).pdf) |
+| Third-Party / Vendor Risk | — (new) | [SecurityGroup101_Third_Party_Vendor_Risk_Assessment.pdf](./pdf-docs/SecurityGroup101_Third_Party_Vendor_Risk_Assessment.pdf) |
 
 All markdown source files remain in place under their original folders (`risk-assessment/`, `compliance/`, `drp/`, `grc-program/`); the PDFs in `/pdf-docs` are polished, client-ready consolidations of that same underlying analysis, plus two new deliverables that close gaps the analysis itself identified.
 
@@ -73,12 +73,12 @@ All markdown source files remain in place under their original folders (`risk-as
 │   └── statement-of-applicability.md
 │
 └── pdf-docs/
-    ├── Quantitative_Risk_Assessment.pdf
-    ├── Regulatory_Compliance_Gap_Analysis.pdf
-    ├── DRP_BCP.pdf
-    ├── Enterprise_GRC_Program_Charter.pdf
-    ├── Statement_of_Applicability.pdf
-    └── Third_Party_Vendor_Risk_Assessment.pdf
+    ├── SecurityGroup101_Quantitative_Risk_Assessment.pdf
+    ├── SecurityGroup101_Regulatory_Compliance_Gap_Analysis.pdf
+    ├── SecurityGroup101_DRP_BCP.pdf
+    ├── SecurityGroup101_Enterprise_GRC_Program_Charter.pdf
+    ├── SecurityGroup101_Statement_of_Applicability.pdf
+    └── SecurityGroup101_Third_Party_Vendor_Risk_Assessment.pdf
 ```
 
 ---
