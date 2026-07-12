@@ -63,16 +63,14 @@ securitygroup101-enterprise-grc-program/
     ├── Document_Control_Register.md
     ├── securitygroup101-security-trust-center.md
     ├── SG101_Security_Trust_Center.pdf
-    ├── SG101_CAIQ_v4_Completed.xlsx
     ├── SG101_CAIQ_v4_Completed.pdf
-    ├── SG101_Vendor_Risk_Scoring_Rubric.xlsx
     ├── SG101_Vendor_Risk_Scoring_Rubric.pdf
-    ├── VRM_01_Vendor_Intake_Form.xlsx + .pdf
-    ├── VRM_02_Vendor_Inventory_Register.xlsx + .pdf
-    ├── VRM_03_Vendor_Tiering_Matrix.xlsx + .pdf
-    ├── VRM_04_Inherent_Risk_Questionnaire.xlsx + .pdf
-    ├── VRM_05_Residual_Risk_Report_Stripe.xlsx + .pdf
-    ├── VRM_06_Vendor_POAM.xlsx + .pdf
+    ├── VRM_01_Vendor_Intake_Form.pdf
+    ├── VRM_02_Vendor_Inventory_Register.pdf
+    ├── VRM_03_Vendor_Tiering_Matrix.pdf
+    ├── VRM_04_Inherent_Risk_Questionnaire.pdf
+    ├── VRM_05_Residual_Risk_Report_Stripe.pdf
+    ├── VRM_06_Vendor_POAM.pdf
     └── VRM_07_Executive_Summary_Stripe.pdf
 ```
 
